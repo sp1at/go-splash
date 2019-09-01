@@ -1,0 +1,9 @@
+mode: set
+github.com/jasonmccuen/splash/internal/config/config.go:20.27,25.16 4 1
+github.com/jasonmccuen/splash/internal/config/config.go:29.2,29.16 1 1
+github.com/jasonmccuen/splash/internal/config/config.go:25.16,27.3 1 0
+github.com/jasonmccuen/splash/internal/config/config.go:32.38,37.16 5 1
+github.com/jasonmccuen/splash/internal/config/config.go:40.2,43.44 3 1
+github.com/jasonmccuen/splash/internal/config/config.go:46.2,48.23 3 1
+github.com/jasonmccuen/splash/internal/config/config.go:37.16,39.3 1 0
+github.com/jasonmccuen/splash/internal/config/config.go:43.44,45.3 1 0
