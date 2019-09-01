@@ -1,4 +1,4 @@
-![Go-Splash Project Image](https://repository-images.githubusercontent.com/205255763/cf510200-cccf-11e9-9bfa-5d73292b00dc)
+![Go-Splash Project Image](https://repository-images.githubusercontent.com/205255763/e8fa4580-ccdf-11e9-8fe5-96cec7528d41)
 # Go Splash
 
 Go-Splash is tool which provides fast and simple interactions with Splash.
@@ -15,13 +15,13 @@ You will need to have both Docker and Splash installed and running.
 
 ### Installation
 
-Go-Splash interacts with an API, and as such there are many options. The default options chosen are sensible options, however to fully realise the power of Go-Splash you may want to [build from source](https://github.com/sp1ash/go-splash#build-from-source) 
+Go-Splash interacts with an API, and as such there are many options. The default options chosen are sensible options, however to fully realise the power of Go-Splash you may want to [build from source](https://github.com/sp1at/go-splash#build-from-source) 
 
 If you have Go 1.9 or later installed and all paths configured, you can install Go-Splash with go-get:
 
-`go get -u github.com/sp1at/go-splash
+`go get -u github.com/sp1at/go-splash`
 
-You can also download the latest binary [here](https://github.com/sp1at/releases)
+You can also download the latest binary [here](https://github.com/sp1at/go-splash/releases)
 
 
 ### Configuration
