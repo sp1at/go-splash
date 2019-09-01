@@ -1,3 +1,4 @@
+![Go-Splash Project Image](https://repository-images.githubusercontent.com/205255763/cf510200-cccf-11e9-9bfa-5d73292b00dc)
 # Go Splash
 
 Go-Splash is tool which provides fast and simple interactions with Splash.
